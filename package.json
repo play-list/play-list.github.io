@@ -1,0 +1,26 @@
+{
+  "name": "one-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurba47/one-music.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "Kasymov Nurbolot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurba47/one-music/issues"
+  },
+  "homepage": "https://github.com/nurba47/one-music#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "heroku": "^7.19.3"
+  }
+}
